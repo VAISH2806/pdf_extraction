@@ -1,0 +1,8 @@
+!pip install Pillow==9.0.0
+!pip install pytesseract
+!pip install pdf2image 
+!pip install pdftotext
+!pip install opencv-python-headless==4.1.2.30
+!pip install easyocr
+poppler-0.67.0_x86
+tesseract-ocr-setup-3.02.02 
